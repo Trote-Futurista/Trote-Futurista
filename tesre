@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <title>Website Kawaii! Torne-o horroroso!</title>
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <img src="img/logo.png" alt="Logo Horroroso" class="logo">
+    <h1>Website consertado e kawaiizado!</h1>
+    <p class="tagline">Era uma casa muito engraçada, não tinha nada - mas kawaiizamos ela.</p>
+  </header>
+
+  <nav class="main-nav">
+    <ul>
+      <li><a href="index.html">Início</a></li>
+      <li><a href="sobre/sobre.html">Sobre</a></li>
+      <li><a href="#">Contato</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    <aside class="sidebar">
+      <h2>Saiba mais:</h2>
+      <a href="https://youtu.be/OWumzJWGjds?si=RGG5sqwXZuXkfWZ8">Abertura Hamtaro em PT-BR</a><br>
+      <a href="https://youtu.be/kQsnMVu7SC0?si=Wqwh0Ow1KutfM0Qa">Apenas Hamtaro.</a>
+      <img src="img/profile.jpeg" alt="Foto do autor" class="profile">
+    </aside>
+
+    <section class="content">
+      <article class="post">
+        <h2 class="post-title">Garotas Mágicas</h2>
+        <p id="destaque">Pequena informação sobre as criadoras do site:</p>
+        <p>Nascemos ambas em 2003 e compartilhamos gostos em comum. Venha com a gente nesse universo da fofura e adote
+          um hamster!</p>
+      </article>
+
+      <article class="post">
+        <h2 class="post-title">Intuito do Site:</h2>
+        <p>Este site foi criado como exercíci para nossa primeira prova de CSS.
+          Somos duas garotas mágicas apaixonadas pelo estilo kawaii, tecnologia e claro: hamsters! Aqui na pag
+          kawaiizada você encontrará tudo isso e um pouco mais através de nossos posts! Então fique atento e não perca
+          nada!
+
+          </p>
+        <img src="img/banner.jpg" alt="Banner" class="banner">
+      </article>
+    </section>
+
+    <div class="clear-fix"></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2025 Website Kawaii. Todos os direitos kawaiis reservados.</p>
+  </footer>
+</body>
+
+</html>
